@@ -1,23 +1,23 @@
-# Byte-Code und Caches
+# Byte-Code and Caches
 __pycache__/
 *.py[cod]
 
-# Virtuelle Umgebungen
+# Virtual Enviroments
 .venv/
 venv/
 
-# Test- und Werkzeug-Caches
+# Test and Tool Caches
 .pytest_cache/
 .ruff_cache/
 .coverage
 htmlcov/
 
-# Verteil-Artefakte
+# spread-artifacts
 build/
 dist/
 *.egg-info/
 
-# Lokale Konfiguration mit Geheimnissen
+# Local configs with secrets
 .env
 
 # IDE-specific settings
